@@ -9,7 +9,7 @@
 
 ---
 
-1. ¿Qué es Visual Studio Code?
+> 1. ¿Qué es Visual Studio Code?
 
     A. Un editor de documentos de texto.
 
@@ -19,6 +19,7 @@
 
     D. Un editor de código de programación WEB.
 
+---
 
 2. ¿Visual Studio Code es multiplataforma?
 
@@ -30,6 +31,8 @@
 
     D. si, funciona para cualquier lenguaje de programación.
 
+---
+
 3. ¿Visual Studio y Visual Studio Code son lo mismo?
 
     A. Si, son la misma herramienta de desarrollo de software.
@@ -39,6 +42,8 @@
     C. Si, ambos son productos de Microsoft .
 
     C. No, Visual Studio es la versión anterior a Visual Studio Code.
+
+---
 
 4. ¿Con que lenguajes de programación puedo utilizar VSC?
 
@@ -50,6 +55,8 @@
 
     D. Solo funciona con lenguajes instalados en el sistema operativo.
 
+---
+
 5. ¿Visual Studio Code se puede personalizar a las necesidades del lenguaje?
 
     A. Si, a través de extensiones para cada lenguaje.
@@ -59,6 +66,8 @@
     C. No, solo de pueden personalizar estéticamente más no en funcionalidades.
 
     D. No, Solo tiene extensiones para conectar otras herramientas.
+
+---
 
 6. ¿Visual Studio Code es open source?
 
@@ -70,6 +79,8 @@
 
     D. Si, porqué cualquier persona lo puede instalar gratuitamente.
 
+---
+
 7. ¿Visual Studio Code es el editor más popular por los desarrolladores?
 
     A. Si, la encuesta de Stack overflow así lo confirma.
@@ -79,6 +90,8 @@
     C. No, Hay editores más populares como VIM o Atom.
 
     D. No, solo por los desarrolladores WEB.
+
+---
 
 8. ¿Visual Studio Code es gratuito o de pago?
 
@@ -90,6 +103,8 @@
 
     D. Es de pago, pero el primer año es gratuito.
 
+---
+
 9. ¿Visual Studio Code requiere instalación?
 
     A. Si, debe descargarse desde la tienda de aplicaciones o desde el sitio oficial.
@@ -100,6 +115,8 @@
 
     D. No, ese programa solo debe abrirse desde el sistema operativo.
 
+---
+
 10. ¿Es obligatorio utilizar Visual Studio Code para programar?
 
     A. Si, solo desde un editor como VSC se puede programar.
@@ -107,5 +124,5 @@
     B. No, desde cualquier editor de texto se puede programar.
 
     C. Si, esta herramienta no se puede escribir código de ninguna manera.
-    
+
     C. No, porque existen editores mucho mejores con más funcionalidades.
